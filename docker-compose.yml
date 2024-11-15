@@ -1,0 +1,8 @@
+services:
+  scylladb:
+    image: 'scylladb/scylla'
+    container_name: scylladb
+    ports:
+      - 7001:7001
+      - 9042:9042
+      - 9142:9142
