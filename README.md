@@ -1,4 +1,10 @@
-# Projet DB Cassandra/Scylla
+# Banco de Dados - Cassandra/Scylla
+
+---
+Caio de Souza Conceição - RA: 22.122.033-8 <br>
+Lucas Dias Batista - RA: 22.122.065-0
+
+---
 
 ## Tecnologias
 
